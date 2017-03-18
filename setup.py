@@ -8,4 +8,5 @@ setup(name='xvg',
       license='MIT',
       #packages=['xvg'],
       py_modules=['xvg'],
+      install_requires=['numpy'],
       zip_safe=False)
