@@ -6,5 +6,6 @@ setup(name='xvg',
       author='Jonathan Barnoud',
       author_email='jonathan@barnoud.net',
       license='MIT',
-      packages=['xvg'],
+      #packages=['xvg'],
+      py_modules=['xvg'],
       zip_safe=False)
